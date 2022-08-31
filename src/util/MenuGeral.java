@@ -38,7 +38,7 @@ public class MenuGeral {
 				break;
 				
 			case 0:
-				System.out.println("Finalizando....");
+				System.out.println("Finalizando Processo....");
 				break;
 				
 			default:
